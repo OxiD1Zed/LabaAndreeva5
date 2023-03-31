@@ -1,0 +1,11 @@
+C:\Users\Макс\Desktop\Проекты\5лаба_Андреева\5лаба_Андреева\bin\Debug\5лаба_Андреева.exe.config
+C:\Users\Макс\Desktop\Проекты\5лаба_Андреева\5лаба_Андреева\bin\Debug\5лаба_Андреева.exe
+C:\Users\Макс\Desktop\Проекты\5лаба_Андреева\5лаба_Андреева\bin\Debug\5лаба_Андреева.pdb
+C:\Users\Макс\Desktop\Проекты\5лаба_Андреева\5лаба_Андреева\obj\Debug\5лаба_Андреева.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\Проекты\5лаба_Андреева\5лаба_Андреева\obj\Debug\5лаба_Андреева.csproj.SuggestedBindingRedirects.cache
+C:\Users\Макс\Desktop\Проекты\5лаба_Андреева\5лаба_Андреева\obj\Debug\_5лаба_Андреева.Form1.resources
+C:\Users\Макс\Desktop\Проекты\5лаба_Андреева\5лаба_Андреева\obj\Debug\_5лаба_Андреева.Properties.Resources.resources
+C:\Users\Макс\Desktop\Проекты\5лаба_Андреева\5лаба_Андреева\obj\Debug\5лаба_Андреева.csproj.GenerateResource.cache
+C:\Users\Макс\Desktop\Проекты\5лаба_Андреева\5лаба_Андреева\obj\Debug\5лаба_Андреева.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\Проекты\5лаба_Андреева\5лаба_Андреева\obj\Debug\5лаба_Андреева.exe
+C:\Users\Макс\Desktop\Проекты\5лаба_Андреева\5лаба_Андреева\obj\Debug\5лаба_Андреева.pdb
